@@ -1,0 +1,6 @@
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\06. Words2\bin\Debug\_06.Words2.exe.config
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\06. Words2\bin\Debug\_06.Words2.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\06. Words2\bin\Debug\_06.Words2.pdb
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\06. Words2\obj\Debug\06. Words2.csprojResolveAssemblyReference.cache
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\06. Words2\obj\Debug\_06.Words2.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\06. Words2\obj\Debug\_06.Words2.pdb

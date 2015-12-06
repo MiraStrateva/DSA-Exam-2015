@@ -1,0 +1,6 @@
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\03. BoxFullOfBalls\bin\Debug\_03.BoxFullOfBalls.exe.config
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\03. BoxFullOfBalls\bin\Debug\_03.BoxFullOfBalls.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\03. BoxFullOfBalls\bin\Debug\_03.BoxFullOfBalls.pdb
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\03. BoxFullOfBalls\obj\Debug\03. BoxFullOfBalls.csprojResolveAssemblyReference.cache
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\03. BoxFullOfBalls\obj\Debug\_03.BoxFullOfBalls.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\03. BoxFullOfBalls\obj\Debug\_03.BoxFullOfBalls.pdb

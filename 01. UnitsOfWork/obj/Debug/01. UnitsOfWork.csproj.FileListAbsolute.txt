@@ -1,0 +1,9 @@
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\01. UnitsOfWork\bin\Debug\_01.UnitsOfWork.exe.config
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\01. UnitsOfWork\bin\Debug\_01.UnitsOfWork.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\01. UnitsOfWork\bin\Debug\_01.UnitsOfWork.pdb
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\01. UnitsOfWork\obj\Debug\01. UnitsOfWork.csprojResolveAssemblyReference.cache
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\01. UnitsOfWork\obj\Debug\_01.UnitsOfWork.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\01. UnitsOfWork\obj\Debug\_01.UnitsOfWork.pdb
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\DSA-Exam-2015\01. UnitsOfWork\bin\Debug\_01.UnitsOfWork.exe.config
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\DSA-Exam-2015\01. UnitsOfWork\obj\Debug\_01.UnitsOfWork.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\DSA-Exam-2015\01. UnitsOfWork\obj\Debug\_01.UnitsOfWork.pdb

@@ -1,0 +1,12 @@
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\02. OfficeSpace\bin\Debug\_02.OfficeSpace.exe.config
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\02. OfficeSpace\bin\Debug\_02.OfficeSpace.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\02. OfficeSpace\bin\Debug\_02.OfficeSpace.pdb
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\02. OfficeSpace\obj\Debug\02. OfficeSpace.csprojResolveAssemblyReference.cache
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\02. OfficeSpace\obj\Debug\_02.OfficeSpace.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\02. OfficeSpace\obj\Debug\_02.OfficeSpace.pdb
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\DSA-Exam-2015\02. OfficeSpace\bin\Debug\_02.OfficeSpace.exe.config
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\DSA-Exam-2015\02. OfficeSpace\obj\Debug\_02.OfficeSpace.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\DSA-Exam-2015\02. OfficeSpace\obj\Debug\_02.OfficeSpace.pdb
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\DSA-Exam-2015\02. OfficeSpace\bin\Debug\_02.OfficeSpace.exe
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\DSA-Exam-2015\02. OfficeSpace\bin\Debug\_02.OfficeSpace.pdb
+D:\Mira\TelerikAcademy\DSA\Exam\Exam2015\DSA-Exam-2015\02. OfficeSpace\obj\Debug\02. OfficeSpace.csprojResolveAssemblyReference.cache
